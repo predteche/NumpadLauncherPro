@@ -11,7 +11,7 @@ The same text is shown in the program (About → License agreement) and in the i
 
 ```
 ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ С КОНЕЧНЫМ ПОЛЬЗОВАТЕЛЕМ
-Numpad Launcher Pro, версия 1.3.0
+Numpad Launcher Pro, версия 1.4.0
 
 Правообладатель: Predteche (далее — «Автор»), сайт: https://koluchka.ru
 
@@ -34,9 +34,10 @@ Numpad Launcher Pro, версия 1.3.0
 3.2. Запрещается продавать Программу, сдавать её в аренду, взимать плату за её копирование, загрузку или предоставление доступа к ней, а также включать Программу в платные сборники, пакеты и дистрибутивы без письменного разрешения Автора.
 
 4. ИЗМЕНЕНИЕ ПРОГРАММЫ
-4.1. Изменение Программы (модификация, переработка, создание производных версий) допускается только при обязательном указании авторства: имени Автора «Predteche» и адреса сайта «koluchka.ru» — в окне «О программе» и в сопроводительной документации изменённой версии, с пометкой, что версия изменена не Автором.
-4.2. Запрещается удалять, скрывать или изменять сведения об авторстве, а также выдавать Программу или её изменённую версию за собственную разработку.
-4.3. На изменённые версии распространяются условия разделов 3 и 4 настоящего соглашения, в том числе запрет продажи.
+4.1. Изменение Программы (модификация, переработка, создание производных версий) запрещено без предварительного письменного согласия Автора. Запросить согласие можно через сайт «koluchka.ru».
+4.2. Изменённая с согласия Автора версия должна содержать сведения об авторстве — имя Автора «Predteche» и адрес сайта «koluchka.ru» в окне «О программе» и в сопроводительной документации — с пометкой, что версия изменена не Автором, если в согласии Автора не указано иное.
+4.3. Запрещается удалять, скрывать или изменять сведения об авторстве, а также выдавать Программу или её изменённую версию за собственную разработку.
+4.4. На изменённые версии распространяются условия разделов 3 и 4 настоящего соглашения, в том числе запрет продажи.
 
 5. ОТКАЗ ОТ ГАРАНТИЙ
 5.1. Программа предоставляется «как есть» (as is), без каких-либо явных или подразумеваемых гарантий, включая, помимо прочего, гарантии пригодности для определённой цели, бесперебойной и безошибочной работы, совместимости с другим программным обеспечением и оборудованием.
@@ -64,7 +65,7 @@ Numpad Launcher Pro, версия 1.3.0
 
 ```
 END USER LICENSE AGREEMENT
-Numpad Launcher Pro, version 1.3.0
+Numpad Launcher Pro, version 1.4.0
 
 Copyright holder: Predteche (the "Author"), website: https://koluchka.ru
 
@@ -87,9 +88,10 @@ Please read this agreement carefully. By installing, copying or otherwise using 
 3.2. You may not sell or rent the Software, charge any fee for copying, downloading or providing access to it, or include it in paid collections, bundles or distributions without the Author's written permission.
 
 4. MODIFICATION
-4.1. Modifying the Software (altering, adapting or creating derivative versions) is permitted only with mandatory attribution: the Author's name "Predteche" and the website "koluchka.ru" must be shown in the "About" window and in the accompanying documentation of the modified version, together with a notice that the version has been modified by someone other than the Author.
-4.2. You may not remove, hide or alter the authorship information, or present the Software or a modified version of it as your own work.
-4.3. Modified versions are subject to sections 3 and 4 of this agreement, including the prohibition on sale.
+4.1. Modifying the Software (altering, adapting or creating derivative versions) is prohibited without the Author's prior written consent. Consent can be requested via the website "koluchka.ru".
+4.2. A version modified with the Author's consent must contain the authorship information — the Author's name "Predteche" and the website "koluchka.ru" in the "About" window and in the accompanying documentation — marked as modified by someone other than the Author, unless the Author's consent states otherwise.
+4.3. You may not remove, hide or alter the authorship information, or present the Software or a modified version of it as your own work.
+4.4. Modified versions are subject to sections 3 and 4 of this agreement, including the prohibition on sale.
 
 5. DISCLAIMER OF WARRANTY
 5.1. The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of fitness for a particular purpose, uninterrupted or error-free operation, and compatibility with other software or hardware.

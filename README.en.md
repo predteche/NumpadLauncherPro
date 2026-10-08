@@ -43,7 +43,10 @@ While Photoshop is active, **Ctrl + Num 1** presses `Ctrl + Shift + Alt + M` for
 
 **Convenience**
 - A visual keypad map shows what each key does and which keys are free.
-- Laptop layout for embedded keypads (Fn or NumLock).
+- "Desktop" or "Laptop" keyboard — for laptops with an embedded keypad (Fn or NumLock).
+- **Experimental mode**: interception with NumLock off, or dual mode — two sets of 16 keys switched with the NumLock key.
+- The tray icon color shows the working mode.
+- Check for updates on demand — in the About window and the tray menu.
 - Launched programs come to the foreground.
 - Firefox private windows can be set up separately from normal ones.
 - Light and dark themes, crisp on any display scaling.
@@ -78,6 +81,18 @@ While Photoshop is active, **Ctrl + Num 1** presses `Ctrl + Shift + Alt + M` for
 
 Keys work while **NumLock is on**. Combinations with Ctrl, Alt, Shift and Win are not intercepted (except the chosen master key), so Alt codes and Shift + arrows keep working.
 
+## Experimental mode
+
+The "Experimental mode" switch in the Settings header opens three options (each with an (i) hint):
+
+- **When NumLock is on** — normal work.
+- **When NumLock is off** — the other way round: actions run with NumLock off, and with NumLock on the keypad types digits.
+- **Dual mode** — two sets of main keys, "NumLock on" and "NumLock off", up to 32 actions. The NumLock key switches the sets; choose the set to edit above the key map. In-app shortcuts are shared by both sets.
+
+The separate arrow keys are not affected, and only keypad keys that have an action are taken. Some keyboards (wireless, via KVM switches) can't tell the keypad from the arrow keys with NumLock off — the mode may work incorrectly with them. Not available with the "Laptop" keyboard.
+
+**Tray icon:** green — normal mode (interception with NumLock on), blue — with NumLock off, dark red — dual mode, grey — interception is off.
+
 ## Administrator mode
 
 Windows does not deliver simulated keystrokes to windows running as administrator. Turn on "Administrator mode" in the settings or the tray menu — Windows asks once, and from then on the program starts through Task Scheduler without prompts. Programs you launch with keys still start with normal rights.
@@ -86,11 +101,13 @@ Available only when installed "for all users" (in Program Files).
 
 ## FAQ
 
-**Keys do nothing.** Make sure NumLock and "Key interception" are on. While the settings window is active, digits are typed as usual — by design.
+**Keys do nothing.** Check the "Key interception" switch (a grey tray icon means it is off) and NumLock: it must be on in normal mode and off in "When NumLock is off" mode. While the settings window is active, digits are typed as usual — by design.
 
 **A shortcut doesn't reach the program.** The program is probably running as administrator. Turn on administrator mode.
 
-**How do I pause everything?** Right-click the tray icon → "Disable interception".
+**How do I pause everything?** Right-click the tray icon and uncheck "Key interception".
+
+**How do I find out about a new version?** About → "Check for updates", or right-click the tray icon → "Check for updates". The program never goes online by itself — only via this button.
 
 **Where are the settings?** In `%AppData%\NumpadLauncher\config.json`. You can copy it to another computer.
 
@@ -100,7 +117,9 @@ Available only when installed "for all users" (in Program Files).
 
 Numpad Launcher Pro is **free for personal, non-commercial use**. Use within companies, by sole proprietors or for profit requires a paid license — contact the author via [koluchka.ru](https://koluchka.ru).
 
-You may redistribute it free of charge and unmodified only; selling is prohibited. Modifying the source code is allowed only with attribution (Predteche, koluchka.ru). Full text: [LICENSE.md](LICENSE.md).
+You may redistribute it free of charge and unmodified only; selling is prohibited. Modifying the program or its source code without the author's written consent is prohibited. Full text: [LICENSE.md](LICENSE.md).
+
+If you find the program useful, you can [buy the author a beer](https://pay.cloudtips.ru/p/d91dc610) 🍺
 
 ---
 
