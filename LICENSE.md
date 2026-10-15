@@ -11,7 +11,7 @@ The same text is shown in the program (About → License agreement) and in the i
 
 ```
 ЛИЦЕНЗИОННОЕ СОГЛАШЕНИЕ С КОНЕЧНЫМ ПОЛЬЗОВАТЕЛЕМ
-Numpad Launcher Pro, версия 1.4.0
+Numpad Launcher Pro, версия 1.4.1
 
 Правообладатель: Predteche (далее — «Автор»), сайт: https://koluchka.ru
 
@@ -65,7 +65,7 @@ Numpad Launcher Pro, версия 1.4.0
 
 ```
 END USER LICENSE AGREEMENT
-Numpad Launcher Pro, version 1.4.0
+Numpad Launcher Pro, version 1.4.1
 
 Copyright holder: Predteche (the "Author"), website: https://koluchka.ru
 
